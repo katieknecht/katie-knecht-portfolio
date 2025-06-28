@@ -4,22 +4,21 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/noisy-gradients.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 65
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Howdy!
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I'm driven by a passion for design education, dedicated to instilling a
+      love for thoughtful design in others. My journey involves creating
+      products from square one, where I find joy in the process of ideation and
+      iteration, ensuring that each creation is unique.
     styles:
       self:
         height: auto
@@ -95,7 +94,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: Got an interesting project? Tell me more..
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -133,7 +132,7 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Send Away
       styles:
         self:
           textAlign: center
