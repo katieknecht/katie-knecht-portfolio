@@ -93,7 +93,7 @@ sections:
         textAlign: left
   - type: ContactSection
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: Got an interesting project? Tell me more..
     form:
       type: FormBlock
