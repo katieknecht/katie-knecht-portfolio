@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Howdy!
     subtitle: >-
       I'm driven by a passion for design education, dedicated to instilling a
       love for thoughtful design in others. My journey involves creating
